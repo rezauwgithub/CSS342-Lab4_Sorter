@@ -1,0 +1,109 @@
+Sort employed: QuickSort 10
+Time (ms): 0
+Sort employed: MergeSort 10
+Time (ms): 0
+Sort employed: IterativeMergeSort 10
+Time (ms): 0
+Sort employed: InsertSort 10
+Time (ms): 0
+Sort employed: BubbleSort 10
+Time (ms): 0
+Sort employed: QuickSort 100
+Time (ms): 0
+Sort employed: MergeSort 100
+Time (ms): 0
+Sort employed: IterativeMergeSort 100
+Time (ms): 0
+Sort employed: InsertSort 100
+Time (ms): 0
+Sort employed: BubbleSort 100
+Time (ms): 0
+Sort employed: QuickSort 1000
+Time (ms): 16
+Sort employed: MergeSort 1000
+Time (ms): 31
+Sort employed: IterativeMergeSort 1000
+Time (ms): 0
+Sort employed: InsertSort 1000
+Time (ms): 266
+Sort employed: BubbleSort 1000
+Time (ms): 718
+Sort employed: QuickSort 5000
+Time (ms): 78
+Sort employed: MergeSort 5000
+Time (ms): 219
+Sort employed: IterativeMergeSort 5000
+Time (ms): 47
+Sort employed: InsertSort 5000
+Time (ms): 6406
+Sort employed: BubbleSort 5000
+Time (ms): 17187
+Sort employed: QuickSort 10000
+Time (ms): 172
+Sort employed: MergeSort 10000
+Time (ms): 437
+Sort employed: IterativeMergeSort 10000
+Time (ms): 109
+Sort employed: InsertSort 10000
+Time (ms): 24047
+Sort employed: BubbleSort 10000
+Time (ms): 70375
+Sort employed: QuickSort 25000
+Time (ms): 610
+Sort employed: MergeSort 25000
+Time (ms): 1516
+Sort employed: IterativeMergeSort 25000
+Time (ms): 281
+Sort employed: InsertSort 25000
+Time (ms): 314062
+Sort employed: BubbleSort 25000
+Time (ms): 779906
+Sort employed: QuickSort 10
+Time (ms): 0
+Sort employed: MergeSort 10
+Time (ms): 0
+Sort employed: IterativeMergeSort 10
+Time (ms): 0
+Sort employed: InsertSort 10
+Time (ms): 0
+Sort employed: BubbleSort 10
+Time (ms): 0
+Sort employed: QuickSort 100
+Time (ms): 0
+Sort employed: MergeSort 100
+Time (ms): 16
+Sort employed: IterativeMergeSort 100
+Time (ms): 15
+Sort employed: InsertSort 100
+Time (ms): 16
+Sort employed: BubbleSort 100
+Time (ms): 47
+Sort employed: QuickSort 1000
+Time (ms): 47
+Sort employed: MergeSort 1000
+Time (ms): 109
+Sort employed: IterativeMergeSort 1000
+Time (ms): 31
+Sort employed: InsertSort 1000
+Time (ms): 969
+Sort employed: BubbleSort 1000
+Time (ms): 2563
+Sort employed: QuickSort 5000
+Time (ms): 359
+Sort employed: MergeSort 5000
+Time (ms): 734
+Sort employed: IterativeMergeSort 5000
+Time (ms): 172
+Sort employed: InsertSort 5000
+Time (ms): 21859
+Sort employed: BubbleSort 5000
+Time (ms): 33375
+Sort employed: QuickSort 10000
+Time (ms): 343
+Sort employed: MergeSort 10000
+Time (ms): 843
+Sort employed: IterativeMergeSort 10000
+Time (ms): 171
+Sort employed: InsertSort 10000
+Time (ms): 35843
+Sort employed: BubbleSort 10000
